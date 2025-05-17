@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Front-End Developer with strong focused in Angular - #Angular #TypeScript #JavaScript - 🇨🇴
+Full-Stack Developer with strong focused in TypeScript - #Angular #TypeScript #JavaScript #Node - 🇨🇴
 
 - LinkedIn: https://www.linkedin.com/in/dpardox
 - Web: https://dpardox.com
